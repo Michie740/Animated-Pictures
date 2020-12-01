@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="michpic" size="10.000000 13.402256" />
+    <ImageTarget name="thatmxguypic" size="10.000000 14.878049" />
+    <ImageTarget name="tinypic" size="10.000000 12.500000" />
+    <ImageTarget name="skzteamwoahpic" size="10.000000 4.674370" />
+    <ImageTarget name="showpic" size="10.000000 10.000000" />
+    <ImageTarget name="san" size="10.000000 9.212121" />
+    <ImageTarget name="rollpic" size="10.000000 17.777779" />
+    <ImageTarget name="rikpic" size="10.000000 7.500000" />
+    <ImageTarget name="kihyun" size="10.000000 12.048193" />
+    <ImageTarget name="in" size="10.000000 5.625000" />
+    <ImageTarget name="hotpic" size="10.000000 8.888889" />
+    <ImageTarget name="touchpic" size="10.000000 5.617597" />
+    <ImageTarget name="hoespid" size="10.000000 8.909825" />
+    <ImageTarget name="felix" size="10.000000 12.698413" />
+    <ImageTarget name="doggo" size="10.000000 10.000000" />
+    <ImageTarget name="beat" size="10.000000 8.571428" />
+    <ImageTarget name="bamwoah" size="10.000000 5.625000" />
+  </Tracking>
+</QCARConfig>
